@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Chris Ashley
-- 👀 I’m interested in becoming a Full Stack Developer
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I am going to be a Full Stack Developer
+- 🌱 I currently learning Full Stack Development
 - 💞️ I’m looking to start a new career in tech and accepting all opporitunites that come my way.
 - 📫 How to reach me ccashley12@gmail.com
 
